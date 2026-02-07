@@ -10,7 +10,7 @@ local WHITELIST = {
     "Baron_e08",   -- coloque seu nome exatamente como no Roblox
     "joaopedrolo0812", -- você pode adicionar mais nomes
     "Gabriel719745"
-"papap9229"
+    "papap9229"
 }
 
 local autorizado = false
